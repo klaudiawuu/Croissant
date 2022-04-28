@@ -7,6 +7,10 @@ h1 {
     color: rgb(151, 15, 15);
 }
 
+p {
+    text-align: center;
+}
+
 .picture {
     display: block;
     margin: auto;
@@ -19,10 +23,16 @@ h1 {
 
 .connection-links a {
     margin: 0 15px;
+    color: rgb(151, 15, 15);
 }
 
 .contact-details {
     text-align: center;
     font-size: large;
     font-weight: bolder;
+}
+
+.email-address {
+    text-decoration: none;
+    color: black;
 }
