@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 174, 119);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(151, 15, 15);
+}
+
+.picture {
+    display: block;
+    margin: auto;
+    width: 600px;
+}
+
+.connection-links {
+    text-align: center;
+}
+
+.connection-links a {
+    margin: 0 15px;
+}
+
+.contact-details {
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+}
